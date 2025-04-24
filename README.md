@@ -28,8 +28,8 @@ This project focuses on building a robust music genre classification system usin
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/music-genre-classification.git
-cd music-genre-classification
+git clone [https://github.com/NotAbdullah87/Music-Genre-Detection]
+cd Music-Genre-Detection
 
 # Install dependencies
 pip install -r requirements.txt
